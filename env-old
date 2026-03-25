@@ -1,0 +1,8 @@
+OIDC_ISSUER=https://14235fc5-9e0a-4926-bf0b-efefb2f0d21e.us.skycloak.io/realms/my-app-dev
+OIDC_CLIENT_ID=skycloak-node-affc6464
+OIDC_CLIENT_SECRET=Us3GHmEfFKI12EyEOzGrZVjh4YGDMcPx
+OIDC_REDIRECT_URI=http://localhost:3000/auth/callback
+SESSION_SECRET=your-session-secret-here
+PORT=3500
+KEYCLOAK_URL=https://14235fc5-9e0a-4926-bf0b-efefb2f0d21e.us.skycloak.io
+REALM=my-app-dev
